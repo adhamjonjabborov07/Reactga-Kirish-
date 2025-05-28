@@ -1,0 +1,21 @@
+.ELEMENTS-DIV{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding-left: 30px;
+}
+
+.ELEMENTS-DIV ul{
+    padding-left: 30px;
+    font-size: 25px;
+}
+.ELEMENTS-DIV p{
+    width: 600px;
+    font-size: 25px;
+}
+.ELEMENTS-DIV h2{
+    font-size: 30px;
+}
+.ELEMENTS-DIV h1{
+    font-size: 40px;
+}
